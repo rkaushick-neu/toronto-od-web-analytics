@@ -49,4 +49,12 @@ For example:
     | Link Source Page URL| Base URL | Category | Category Details 1 | Category Details 2 |
     |---------------------|----------|----------|--------------------|--------------------|
     | open.toronto.ca/dataset/central-intake-calls/{"csv":"77d6e185-90b2-48d0-94c5-e5cf68265c92" |  open.toronto.ca | dataset | central-intake-calls | {"csv":"77d6e185-90b2-48d0-94c5-e5cf68265c92" |
-4. 
+4. In the user-ship metrics: When the 'Link Source -Page URL' did not have category as 'dataset' or 'catalog' or anything specific - it often referred to blog posts. For example the below URL is a blog post:
+    ```
+    open.toronto.ca/decoding-transit-delays-a-data-driven-dive-into-the-toronto-transit-commission-2014-2022/ 
+    ``` 
+    Therefore we have updated the Link Source - URL Category to 'blog-post' from the previous value:
+     ```
+     decoding-transit-delays-a-data-driven-dive-into-the-toronto-transit-commission-2014-2022
+     ```
+    ![Link Source - URL Category as blog post](./screenshots/data_cleaning_usership_blog_post.png)
