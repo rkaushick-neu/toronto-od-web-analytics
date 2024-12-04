@@ -7,11 +7,13 @@ Analysis by: Jinesh Dutt, Rishabh Kaushick
 2. To identify external data sources to enhance existing visualizations.
 3. To perform predictions on how the data may change over time.
 
-
 ## Visualizations
-### Correlation Heat Map between Columns like User, Sessions, Views
-Performed on Dataset: Referrer Domains  
-
+### Top Datasets by Views of All Time in 2023 & 2024
+![Bar plot containing the dataset with the highest views](./screenshots/Top_10_Dataset_Views.png)
+### Top Datasets by Sessions of All Time in 2023 & 2024
+![Bar plot containing the dataset with the highest sessions](./screenshots/Top_10_Dataset_Sessions.png)
+### Top Datasets by Users of All Time in 2023 & 2024
+![Bar plot containing the dataset with the highest users](./screenshots/Top_10_Dataset_Users.png)
 
 ## Documentation
 ### Data Description
