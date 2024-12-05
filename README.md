@@ -14,6 +14,12 @@ Analysis by: Jinesh Dutt, Rishabh Kaushick
 ![Bar plot containing the dataset with the highest sessions](./screenshots/Top_10_Dataset_Sessions.png)
 ### Top Datasets by Users of All Time in 2023 & 2024
 ![Bar plot containing the dataset with the highest users](./screenshots/Top_10_Dataset_Users.png)
+### Donut Chart of Top Sessions by URL Categories
+![Donut chart containing categories with the highest sessions](./screenshots/Donut_chart_URLCategory_Sessions.png)
+### Top Referring Domain by Sessions in 2023
+![Top 5 referring domains by sessions 2023](./screenshots/Top5_Referring_Domains_Sessions_2023.png)
+### Top Referring Domain by Sessions in 2024
+![Top 5 referring domains by sessions 2024](./screenshots/Top5_Referring_Domains_Sessions_2024.png)
 
 ## Documentation
 ### Data Description
