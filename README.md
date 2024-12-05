@@ -20,6 +20,8 @@ Analysis by: Jinesh Dutt, Rishabh Kaushick
 ![Top 5 referring domains by sessions 2023](./screenshots/Top5_Referring_Domains_Sessions_2023.png)
 ### Top Referring Domain by Sessions in 2024
 ![Top 5 referring domains by sessions 2024](./screenshots/Top5_Referring_Domains_Sessions_2024.png)
+### Word Cloud of Search Terms (2023 & 2024)
+![Word Cloud of Search Terms](./screenshots/Word_Cloud_Search_Term.png)
 
 ## Documentation
 ### Data Description
