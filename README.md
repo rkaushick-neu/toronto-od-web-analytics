@@ -22,10 +22,12 @@ Analysis by: Jinesh Dutt, Rishabh Kaushick
 ![Top 5 referring domains by sessions 2024](./screenshots/Top5_Referring_Domains_Sessions_2024.png)
 ### Word Cloud of Search Terms (2023 & 2024)
 ![Word Cloud of Search Terms](./screenshots/Word_Cloud_Search_Term.png)
+### Pareto Chart of IPs Click Duration (2023 & 2024)
+![Pareto Chart of IPs Click Duration](./screenshots/Pareto_Chart_IP_Download_Clicks.png)
 
 ## Documentation
 ### Data Description
-**od-ips-clicks-durations-2023.csv**
+**Clicks Duration (od-ips-clicks-durations-2023.csv)**
 | Sr. No | Column Name                     | Data Type |
 |--------|---------------------------------|-----------|
 | 1      | Client IP                       | String    |
@@ -35,15 +37,24 @@ Analysis by: Jinesh Dutt, Rishabh Kaushick
 | 5      | OD - File Download Clicks       | Integer   |
 | 6      | Sessions                        | Integer   |
 
-**od-referrer-domains-2023.csv**
+**Referrer Domains (od-referrer-domains-2023.csv)**
 | Sr. No | Column Name      | Data Type |
 |--------|------------------|-----------|
-| 1      | Referring Domain | String   |
+| 1      | Referring Domain | String    |
 | 2      | Date             | Date      |
 | 3      | Session          | Integer   |
 | 4      | Users            | Integer   |
 | 5      | Views            | Integer   |
 
+**Search Terms**
+| Sr. No | Column Name                      | Data Type |
+|--------|----------------------------------|-----------|
+| 1      | Search Term -Generic (search=)   | String    |
+| 2      | Date                             | Date      |
+| 3      | Views                            | Integer   |
+
+**Usership Metrics**
+...
 
 ### Data Cleaning
 1. For each dataset - segregated summary rows & non summary rows into two different sheets.
