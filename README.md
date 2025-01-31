@@ -22,20 +22,9 @@ Analysis by: Jinesh Dutt, Rishabh Kaushick
 ![Top 5 referring domains by sessions 2024](./screenshots/Top5_Referring_Domains_Sessions_2024.png)
 ### Word Cloud of Search Terms (2023 & 2024)
 ![Word Cloud of Search Terms](./screenshots/Word_Cloud_Search_Term.png)
-### Pareto Chart of IPs Click Duration (2023 & 2024)
-![Pareto Chart of IPs Click Duration](./screenshots/Pareto_Chart_IP_Download_Clicks.png)
 
 ## Documentation
 ### Data Description
-**Clicks Duration (od-ips-clicks-durations-2023.csv)**
-| Sr. No | Column Name                     | Data Type |
-|--------|---------------------------------|-----------|
-| 1      | Client IP                       | String    |
-| 2      | Date                            | Date      |
-| 3      | Views                           | Integer   |
-| 4      | Avg Session Duration (Sec)      | Float     |
-| 5      | OD - File Download Clicks       | Integer   |
-| 6      | Sessions                        | Integer   |
 
 **Referrer Domains (od-referrer-domains-2023.csv)**
 | Sr. No | Column Name      | Data Type |
