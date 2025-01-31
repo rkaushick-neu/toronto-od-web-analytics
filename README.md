@@ -50,7 +50,6 @@ Analysis by: Jinesh Dutt, Rishabh Kaushick
 2. Extracted the date:
    1. month, day and year: for easy future analysis with respect to date
    2. day of the week: for example Mon, Tue, Wed
-   ![Date column extracted to month, day and year](./screenshots/data_cleaning_date_columns.png)
 3. In the user-ship metrics: Extracted details from 'Link Source Page URL' to understand the base url, which web page is visited, and if it a dataset - which dataset:
 ![Link Source Page URL data extraction](./screenshots/data_cleaning_usership_url_cleanup.png)
 For example:
